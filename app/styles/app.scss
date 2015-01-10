@@ -1,0 +1,12 @@
+@import "bootstrap";
+
+*, :before, :after {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  background-color: #eaeaea;
+  overflow-y: scroll;
+  overflow-x: visible;
+}
